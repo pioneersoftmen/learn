@@ -1,0 +1,14 @@
+.nav-list {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.nav-list li {
+    width: max-content;
+}
+
+header {
+    border-width: 5px;
+}
